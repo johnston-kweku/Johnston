@@ -1,0 +1,37 @@
+body {
+    background-image: url('pexels-veeterzy-303383.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+#intro {
+    text-align: center;
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    width: fit-content;
+    height: fit-content;
+    background-color: aliceblue;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+#intro1 {
+    font-family:'Courier New', Courier, monospace;
+    color: greenyellow;
+    text-decoration: underline;
+    animation-name: intro1;
+    
+    animation-duration: 5s;
+    animation-iteration-count: 3;
+    animation-delay: 2s;
+    
+}
+@keyframes intro1{
+    from{color: greenyellow}
+    to{color: green}   
+}
+#p1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: goldenrod;
+    
+}

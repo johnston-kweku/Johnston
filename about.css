@@ -1,0 +1,28 @@
+body {
+    background-image: url('pexels-stephan-seeber-1261728.jpg');
+    background-position: absolute;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.pp {
+    text-align: center;
+margin-top: 50px;
+border: 2px solid greenyellow;
+border-radius: 20px;
+height: fit-content;
+width: fit-content;
+margin-left: 600px;
+background: linear-gradient( bisque , aliceblue);
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: goldenrod;
+}

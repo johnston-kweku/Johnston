@@ -1,0 +1,49 @@
+body {
+    background-image: url('pexels-george-milton-7034717.jpg');
+    background-attachment: fixed;
+    background-position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+#welcome
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 90px;
+    color: greenyellow;
+    text-align: center;
+}
+#ciara {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: greenyellow;
+    text-decoration: underline;
+    text-align: center;
+}
+#buttonsh,
+#buttonsc,
+#buttonsa {
+text-align: center;
+
+
+}
+a {
+    font-family: cursive;
+    font-size: 20px;
+}
+.html,
+.css,
+.about {
+    padding-top: 5px;
+    background-color:greenyellow;
+    border-radius: 30px;
+    border-width: 20px;
+}
+#buttonsc {
+    padding-top: 100px;
+}
+#buttonsa {
+    padding-top: 100px;
+}
+
+
